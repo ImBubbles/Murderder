@@ -3,52 +3,52 @@ Processing 14 files
 processing me\bubbles\murderder\Murderder.java
 @|me\bubbles\murderder\Murderder.java|8|28|me.bubbles.murderder|package|me.bubbles.murderder|(file)
 Class Start: me.bubbles.murderder.Murderder
-   @|me\bubbles\murderder\Murderder.java|392|398|String|class|java.lang.String
-   @|me\bubbles\murderder\Murderder.java|399|404|MODID|field|me.bubbles.murderder.Murderder|MODID|
-   @|me\bubbles\murderder\Murderder.java|444|450|String|class|java.lang.String
-   @|me\bubbles\murderder\Murderder.java|451|458|VERSION|field|me.bubbles.murderder.Murderder|VERSION|
-   @|me\bubbles\murderder\Murderder.java|487|496|Murderder|class|me.bubbles.murderder.Murderder
-   @|me\bubbles\murderder\Murderder.java|497|505|INSTANCE|field|me.bubbles.murderder.Murderder|INSTANCE|
-   @|me\bubbles\murderder\Murderder.java|525|537|EventManager|class|me.bubbles.murderder.events.manager.EventManager
-   @|me\bubbles\murderder\Murderder.java|538|550|eventManager|field|me.bubbles.murderder.Murderder|eventManager|
-   @|me\bubbles\murderder\Murderder.java|557|569|EventManager|class|me.bubbles.murderder.events.manager.EventManager
-   @|me\bubbles\murderder\Murderder.java|585|594|Minecraft|class|net.minecraft.client.Minecraft
-   @|me\bubbles\murderder\Murderder.java|595|605|lastClient|field|me.bubbles.murderder.Murderder|lastClient|
-   @|me\bubbles\murderder\Murderder.java|619|630|GameManager|class|me.bubbles.murderder.games.GameManager
-   @|me\bubbles\murderder\Murderder.java|631|642|gameManager|field|me.bubbles.murderder.Murderder|gameManager|
+   @|me\bubbles\murderder\Murderder.java|445|451|String|class|java.lang.String
+   @|me\bubbles\murderder\Murderder.java|452|457|MODID|field|me.bubbles.murderder.Murderder|MODID|
+   @|me\bubbles\murderder\Murderder.java|508|514|String|class|java.lang.String
+   @|me\bubbles\murderder\Murderder.java|515|522|VERSION|field|me.bubbles.murderder.Murderder|VERSION|
+   @|me\bubbles\murderder\Murderder.java|553|562|Murderder|class|me.bubbles.murderder.Murderder
+   @|me\bubbles\murderder\Murderder.java|563|571|INSTANCE|field|me.bubbles.murderder.Murderder|INSTANCE|
+   @|me\bubbles\murderder\Murderder.java|591|603|EventManager|class|me.bubbles.murderder.events.manager.EventManager
+   @|me\bubbles\murderder\Murderder.java|604|616|eventManager|field|me.bubbles.murderder.Murderder|eventManager|
+   @|me\bubbles\murderder\Murderder.java|623|635|EventManager|class|me.bubbles.murderder.events.manager.EventManager
+   @|me\bubbles\murderder\Murderder.java|651|660|Minecraft|class|net.minecraft.client.Minecraft
+   @|me\bubbles\murderder\Murderder.java|661|671|lastClient|field|me.bubbles.murderder.Murderder|lastClient|
+   @|me\bubbles\murderder\Murderder.java|685|696|GameManager|class|me.bubbles.murderder.games.GameManager
+   @|me\bubbles\murderder\Murderder.java|697|708|gameManager|field|me.bubbles.murderder.Murderder|gameManager|
    Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|me\bubbles\murderder\Murderder.java|683|687|init|method|me.bubbles.murderder.Murderder|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|me\bubbles\murderder\Murderder.java|688|710|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
-      @|me\bubbles\murderder\Murderder.java|711|716|event|param|me.bubbles.murderder.Murderder|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
-      @|me\bubbles\murderder\Murderder.java|728|736|INSTANCE|field|me.bubbles.murderder.Murderder|INSTANCE
-      @|me\bubbles\murderder\Murderder.java|751|762|gameManager|field|me.bubbles.murderder.Murderder|gameManager
-      @|me\bubbles\murderder\Murderder.java|767|778|GameManager|class|me.bubbles.murderder.games.GameManager
-      @|me\bubbles\murderder\Murderder.java|795|805|lastClient|field|me.bubbles.murderder.Murderder|lastClient
-      @|me\bubbles\murderder\Murderder.java|806|815|Minecraft|class|net.minecraft.client.Minecraft
-      @|me\bubbles\murderder\Murderder.java|816|828|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|me\bubbles\murderder\Murderder.java|749|753|init|method|me.bubbles.murderder.Murderder|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|me\bubbles\murderder\Murderder.java|754|776|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|me\bubbles\murderder\Murderder.java|777|782|event|param|me.bubbles.murderder.Murderder|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|me\bubbles\murderder\Murderder.java|794|802|INSTANCE|field|me.bubbles.murderder.Murderder|INSTANCE
+      @|me\bubbles\murderder\Murderder.java|817|828|gameManager|field|me.bubbles.murderder.Murderder|gameManager
+      @|me\bubbles\murderder\Murderder.java|833|844|GameManager|class|me.bubbles.murderder.games.GameManager
+      @|me\bubbles\murderder\Murderder.java|861|871|lastClient|field|me.bubbles.murderder.Murderder|lastClient
+      @|me\bubbles\murderder\Murderder.java|872|881|Minecraft|class|net.minecraft.client.Minecraft
+      @|me\bubbles\murderder\Murderder.java|882|894|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
    Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
    Method Start: getEventManager()Lme/bubbles/murderder/events/manager/EventManager;
-      @|me\bubbles\murderder\Murderder.java|863|878|getEventManager|method|me.bubbles.murderder.Murderder|getEventManager|()Lme/bubbles/murderder/events/manager/EventManager;
-      @|me\bubbles\murderder\Murderder.java|850|862|EventManager|class|me.bubbles.murderder.events.manager.EventManager
-      @|me\bubbles\murderder\Murderder.java|898|910|eventManager|field|me.bubbles.murderder.Murderder|eventManager
+      @|me\bubbles\murderder\Murderder.java|929|944|getEventManager|method|me.bubbles.murderder.Murderder|getEventManager|()Lme/bubbles/murderder/events/manager/EventManager;
+      @|me\bubbles\murderder\Murderder.java|916|928|EventManager|class|me.bubbles.murderder.events.manager.EventManager
+      @|me\bubbles\murderder\Murderder.java|964|976|eventManager|field|me.bubbles.murderder.Murderder|eventManager
    Method End: getEventManager()Lme/bubbles/murderder/events/manager/EventManager;
    Method Start: getGameManager()Lme/bubbles/murderder/games/GameManager;
-      @|me\bubbles\murderder\Murderder.java|942|956|getGameManager|method|me.bubbles.murderder.Murderder|getGameManager|()Lme/bubbles/murderder/games/GameManager;
-      @|me\bubbles\murderder\Murderder.java|930|941|GameManager|class|me.bubbles.murderder.games.GameManager
-      @|me\bubbles\murderder\Murderder.java|976|987|gameManager|field|me.bubbles.murderder.Murderder|gameManager
+      @|me\bubbles\murderder\Murderder.java|1008|1022|getGameManager|method|me.bubbles.murderder.Murderder|getGameManager|()Lme/bubbles/murderder/games/GameManager;
+      @|me\bubbles\murderder\Murderder.java|996|1007|GameManager|class|me.bubbles.murderder.games.GameManager
+      @|me\bubbles\murderder\Murderder.java|1042|1053|gameManager|field|me.bubbles.murderder.Murderder|gameManager
    Method End: getGameManager()Lme/bubbles/murderder/games/GameManager;
    Method Start: getMinecraft()Lnet/minecraft/client/Minecraft;
-      @|me\bubbles\murderder\Murderder.java|1017|1029|getMinecraft|method|me.bubbles.murderder.Murderder|getMinecraft|()Lnet/minecraft/client/Minecraft;
-      @|me\bubbles\murderder\Murderder.java|1007|1016|Minecraft|class|net.minecraft.client.Minecraft
-      @|me\bubbles\murderder\Murderder.java|1042|1051|Minecraft|class|net.minecraft.client.Minecraft
-      @|me\bubbles\murderder\Murderder.java|1061|1070|Minecraft|class|net.minecraft.client.Minecraft
-      @|me\bubbles\murderder\Murderder.java|1071|1083|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
-      @|me\bubbles\murderder\Murderder.java|1126|1136|lastClient|field|me.bubbles.murderder.Murderder|lastClient
+      @|me\bubbles\murderder\Murderder.java|1083|1095|getMinecraft|method|me.bubbles.murderder.Murderder|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|me\bubbles\murderder\Murderder.java|1073|1082|Minecraft|class|net.minecraft.client.Minecraft
+      @|me\bubbles\murderder\Murderder.java|1108|1117|Minecraft|class|net.minecraft.client.Minecraft
+      @|me\bubbles\murderder\Murderder.java|1127|1136|Minecraft|class|net.minecraft.client.Minecraft
+      @|me\bubbles\murderder\Murderder.java|1137|1149|getMinecraft|method|net.minecraft.client.Minecraft|getMinecraft|()Lnet/minecraft/client/Minecraft;
+      @|me\bubbles\murderder\Murderder.java|1192|1202|lastClient|field|me.bubbles.murderder.Murderder|lastClient
    Method End: getMinecraft()Lnet/minecraft/client/Minecraft;
    Method Start: lastClient()Lnet/minecraft/client/Minecraft;
-      @|me\bubbles\murderder\Murderder.java|1206|1216|lastClient|method|me.bubbles.murderder.Murderder|lastClient|()Lnet/minecraft/client/Minecraft;
-      @|me\bubbles\murderder\Murderder.java|1196|1205|Minecraft|class|net.minecraft.client.Minecraft
-      @|me\bubbles\murderder\Murderder.java|1236|1246|lastClient|field|me.bubbles.murderder.Murderder|lastClient
+      @|me\bubbles\murderder\Murderder.java|1272|1282|lastClient|method|me.bubbles.murderder.Murderder|lastClient|()Lnet/minecraft/client/Minecraft;
+      @|me\bubbles\murderder\Murderder.java|1262|1271|Minecraft|class|net.minecraft.client.Minecraft
+      @|me\bubbles\murderder\Murderder.java|1302|1312|lastClient|field|me.bubbles.murderder.Murderder|lastClient
    Method End: lastClient()Lnet/minecraft/client/Minecraft;
 Class End  : me.bubbles.murderder.Murderder
 endProcessing me\bubbles\murderder\Murderder.java

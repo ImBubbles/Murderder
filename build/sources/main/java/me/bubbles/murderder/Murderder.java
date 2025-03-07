@@ -6,10 +6,10 @@ import net.minecraft.client.Minecraft;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 
-@Mod(modid = Murderder.MODID, version = Murderder.VERSION)
+@Mod(modid = Murderder.MODID, name = "Scrollable Tooltips", version = Murderder.VERSION, clientSideOnly = true)
 public class Murderder {
-    public static final String MODID = "murderder";
-    public static final String VERSION = "1.0";
+    public static final String MODID = "text_overflow_scroll";
+    public static final String VERSION = "1.3.9";
 
     public static Murderder INSTANCE;
     private final EventManager eventManager = new EventManager();
